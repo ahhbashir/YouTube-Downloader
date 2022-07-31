@@ -1,6 +1,7 @@
 # YouTube-Downloader
 
 This is a YouTube video Downloader I created using the pytube python library.
+
 To download a YouTube video copy the video link then run the python file in the terminal followed by the link.
 
 For example: python ytDownloader.py "insert link here"
