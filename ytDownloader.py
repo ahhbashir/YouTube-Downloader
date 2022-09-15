@@ -10,4 +10,4 @@ print("Views:", yt.views)
 
 yd = yt.streams.get_highest_resolution()
 
-yd.download(r'C:\Users\bashi\OneDrive\Documents\DownloadedVideos') #Make sure to change this line to your own directory
+yd.download(r'C:\Users\bashi\OneDrive\Documents\DownloadedVideos') #Make sure to change this line to the directory where you would like to save the video
